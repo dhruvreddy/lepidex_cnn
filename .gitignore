@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+.venv_butterfly/
+
+# Butterfly Images
+butterfly/
+butterfly.zip
+
+# Compressed
+*.zip
+*.keras
+
+# Notebook checkpoints or autosaves
+*.ipynb.i
+
+# VSCode or other IDE configs (optional)
+.vscode/
+
+# Environment files (if used)
+.env
+.env.*
