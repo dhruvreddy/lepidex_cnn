@@ -6,10 +6,6 @@ A deep learning model built using TensorFlow and Keras to classify butterfly spe
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Model Details](#model-details)
-- [Classes](#classes)
-- [Example Code](#example-code)
-- [Notes](#notes)
 
 ## Overview
 This project uses a custom-trained CNN model to identify butterfly species from images. The model is trained on a dataset of images of various butterfly species and can be used to classify new images.
