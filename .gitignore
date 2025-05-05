@@ -13,7 +13,6 @@ butterfly.zip
 
 # Compressed
 *.zip
-*.keras
 
 # Notebook checkpoints or autosaves
 *.ipynb.i
